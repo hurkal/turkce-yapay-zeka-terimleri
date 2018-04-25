@@ -19,7 +19,7 @@ Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlü
 - [ ] TÜBA
 - [ ] TDK
 
-ÖNERİ: `sınırlayıcı kutu`
+ÖNERİ: `sınırlayıcı kutu, kapsar`
 
 ## capsule
 - [x] TÜBA
